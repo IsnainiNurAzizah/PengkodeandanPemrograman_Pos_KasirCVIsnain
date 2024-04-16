@@ -1,2 +1,10 @@
-# PengkodeandanPemrograman_Pos_KasirCVIsnain
-Untuk menyelesaikan tugas mata kuliah Pengkodean dan Pemrograman oleh dosen Dr. Totok Dewayanto, SE., Msi., Akt. Saya Isnaini Nur Azizah telah menyelesaikan tugas sistem Pos Kasir sangat sederhana menggunakan HTML, CSS, Java Script dengan structure phpMyAdmin, design phpMyAdmin, dan ERD aplikasi tersebut.
+# UTS PENGKODEAN DAN PEMROGRAMAN
+
+(Referensi Github : https://github.com/fauzan1892/pos-kasir-php?tab=readme-ov-file)
+<table align="center">
+  <tr><td>Nama</td><td>Isnaini Nur Azizah</td></tr> 
+  <tr><td>NIM</td><td>12030122120027</td></tr>
+  <tr><td>kelas</td><td>E (EL.3.01)</td></tr>
+  <tr><td>Mata Kuliah</td><td>Pengkodean dan Pemrograman</td></tr>
+  <tr><td>Dosen</td><td>Dr. Totok Dewayanto, SE., M.Si, Ak, CA</td></tr>
+</table>
