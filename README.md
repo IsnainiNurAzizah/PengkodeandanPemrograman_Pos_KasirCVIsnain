@@ -21,11 +21,10 @@ Code Aplikasi Penjualan Barang sederhana berbasis Website dengan PHP Xamp Berbas
 ##### Beli Aplikasi POS Cafe Resto : https://www.codekop.com/products/source-code-aplikasi-pos-kasir-cafe-resto-berbasis-website-4.html
 
 ## Setting Koneksi PHP
-
-setting koneksi di config.php dan ganti username, password dan dbname nya
+* setting koneksi di config.php dan ganti username, password dan dbname nya
+* Yang dibutuhkah : Xammp, Notepad++, W3school, Github
 
 ## Penggunaan Login
-
 * Penggunaan Login untuk single User
 * Referensi : http://localhost/db_toko/index.php?page=user&success=edit-data
 <table align="center">
@@ -90,4 +89,9 @@ Untuk penggantian tulisan menjadi versi Bahasa Inggris, dan semua terkait penama
 ### Sesudah
 ![9](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/1999d6c3-6a3a-4161-8cd6-92cbab865701)
 
+# DATABASE PHP MY ADMIN
+
+# ERD 
+
+# FLOWCHART
 
