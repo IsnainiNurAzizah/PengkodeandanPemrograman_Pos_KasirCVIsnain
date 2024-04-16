@@ -90,8 +90,8 @@ Untuk penggantian tulisan menjadi versi Bahasa Inggris, dan semua terkait penama
 ![9](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/1999d6c3-6a3a-4161-8cd6-92cbab865701)
 
 # DATABASE PHP MY ADMIN
+![PHP](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/d06c77a6-0244-4447-a80b-860d27df6a1e)
 
 # ERD 
-
-# FLOWCHART
+![322985906-7255de7e-cbb5-42d1-854e-c6ffe60fbf18](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/2b704841-b2c7-4894-9281-486ca41d6f1f)
 
