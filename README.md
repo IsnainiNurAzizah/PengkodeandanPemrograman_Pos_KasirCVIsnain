@@ -35,5 +35,39 @@ setting koneksi di config.php dan ganti username, password dan dbname nya
 
 # PERBEDAAN SEBELUM DAN SESUDAH PERUBAHAN
 
-## LOGIN
+## Login
+### Sebelum
+![Login](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/0aa6a0e8-125b-42d7-af92-9d9edb6fa00f)
+
+## Dashboard
+### Sebelum
+![2](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/f5fac639-8b03-4626-8e49-131898c0a447)
+
+## Tabel Barang
+### Sebelum
+![3](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/a17914d3-8837-4951-b468-32421ddfcc47)
+
+## Kategori
+### Sebelum
+![4](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/ef5b4f50-63a1-458a-9e35-3a80beb866a5)
+
+## Keranjang/Transaksi
+### Sebelum
+![5](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/c5c3147f-bb0b-4894-ac1e-32529d70a3b3)
+
+## Laporan
+### Sebelum
+![6](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/913c4386-9e93-4c55-a0f7-f80ad110239d)
+
+## Data Barang
+### Sebelum
+![7](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/e702ddec-4c5c-448e-bba6-b20dc566b151)
+
+## Pengaturan Toko
+### Sebelum
+![8](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/4c2030e5-1ca9-44c8-a46e-ffc71154eb70)
+
+## Pengaturan Pengguna
+### Sebelum
+![9](https://github.com/IsnainiNurAzizah/PengkodeandanPemrograman_Pos_KasirCVIsnain/assets/151497035/041a8ba8-7cd5-427a-8de8-51aff8b7b407)
 
